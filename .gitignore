@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Entorno virtual
+venv/
+.env/
+
+# Archivos de configuración sensibles
+.env
+*.env
+
+# Jupyter y notebooks temporales
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Streamlit cache
+.streamlit/
